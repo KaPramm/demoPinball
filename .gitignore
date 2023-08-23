@@ -1,0 +1,7 @@
+
+demoPinball/Library/*
+demoPinball/Logs/* 
+demoPinball/Temp/* 
+
+*.vsconfig 
+*.sln 
